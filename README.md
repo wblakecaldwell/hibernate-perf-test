@@ -3,6 +3,12 @@ hibernate-perf-test
 
 Compare large dataset query performance using different approaches in Hibernate.
 
+About me
+--------
+
+Blake Caldwell  
+http://blakecaldwell.net
+
 What is this?
 -------------
 
